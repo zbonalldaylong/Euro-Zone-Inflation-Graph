@@ -3,4 +3,4 @@ This is a graph illustrating euro zone inflation and ECB interest rates circa Fe
 
 Output looks like this: 
 
-![Screenshot of Inflation Graph]()
+![Screenshot of Inflation Graph](InflationGraph.png)
